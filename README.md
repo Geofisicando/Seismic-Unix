@@ -3,7 +3,7 @@
 Curso de introdução ao processamento sísmico com Seismic Unix (SU)
 
 
-- [SEG Wiki](https://wiki.seg.org/wiki/Seismici_Unix)
+- [SEG Wiki](https://wiki.seg.org/wiki/Seismic_Unix)
 
 - [John Stockwell github](https://github.com/JohnWStockwellJr/SeisUnix)
 
